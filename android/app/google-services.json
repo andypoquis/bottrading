@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "403481177537",
+    "firebase_url": "https://arm-bd-default-rtdb.firebaseio.com",
+    "project_id": "arm-bd",
+    "storage_bucket": "arm-bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403481177537:android:f7baa1db0f7aa18c5b1340",
+        "android_client_info": {
+          "package_name": "com.example.bottrading"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403481177537-g7i462hv0upsk87fpj12j4q26colcuag.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bottrading",
+            "certificate_hash": "dcd6bbf83ae750105f1cc1f6b3ce0e741f206a83"
+          }
+        },
+        {
+          "client_id": "403481177537-f9ualavk7usn67erd5m8rlmog8ptanks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKvfFCFA6hn7_IdS740YqnIZzB9zES82M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403481177537-f9ualavk7usn67erd5m8rlmog8ptanks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
